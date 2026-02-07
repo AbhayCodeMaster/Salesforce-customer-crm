@@ -26,5 +26,3 @@ when a new customer is created.
 ## Use Case
 This system helps track customers and manage follow-ups efficiently.
 
-## Screenshots
-(Add screenshots of object, flow, and record page)
